@@ -6,6 +6,7 @@ The all-in-one starter kit for high-performance e-commerce sites. With a few cli
 Start right now at [nextjs.org/commerce](https://nextjs.org/commerce)
 
 Demo live at: [demo.vercel.store](https://demo.vercel.store/)
+![Screenshot (743)](https://user-images.githubusercontent.com/75971776/149366875-9ef398a8-0644-4de3-994c-744a3435aa12.png)
 
 - Shopify Demo: https://shopify.vercel.store/
 - Swell Demo: https://swell.vercel.store/
